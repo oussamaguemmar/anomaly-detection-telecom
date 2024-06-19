@@ -4,8 +4,8 @@ This repository contains code to preprocess data, classify anomalies, and visual
 
 ## Authors
 
-- **Oussama Guemmar**
-- **Hatim Haffou**
+- [**Oussama Guemmar**](https://github.com/oussamaguemmar)
+- [**Hatim Haffou**](https://github.com/hatimexe)
 
 Supervised by **Mr. Said Kasli** at **Orange Morocco**.
 
